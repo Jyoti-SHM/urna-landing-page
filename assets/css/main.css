@@ -18079,3 +18079,4 @@ div#header {
 .service4-section-area .service-boxes .service-author-box .icons {background: #DDE3EE;}
 .footer4-section-area .footer-header ul li{justify-content: center;}
 .footer-header{text-align: center;}
+.choose5-section-area .choose-main-area::after{display: none;}
